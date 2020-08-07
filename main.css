@@ -1,0 +1,22 @@
+h1{
+    min-width: 500px;
+    position: relative;
+    margin: 0 auto;
+    border: 2px solid lightcoral;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.cat-box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
