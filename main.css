@@ -20,3 +20,9 @@ h1{
     margin-bottom: 10px;
 
 }
+
+p{
+    text-align: center;
+    font-family: 나눔스퀘어, sans-serif;
+    text-shadow: 0 0 10px lightslategray;
+}
