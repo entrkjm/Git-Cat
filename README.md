@@ -6,4 +6,5 @@ GitHub exercise cat is good experience!
 
 How to find whether cat is alive or die
 
-1. Alive    
+<<<<<<< HEAD
+1. Alive or Dead
